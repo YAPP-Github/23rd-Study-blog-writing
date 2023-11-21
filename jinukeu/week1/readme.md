@@ -1,3 +1,7 @@
+# 블로그 포스팅
+[https://jinukeu.hashnode.dev/android-spalsh-screen](https://jinukeu.hashnode.dev/android-spalsh-screen)   
+(내용이 조금 짧네요 ... ㅎㅎ)
+
 # 책 리뷰 (프롤로그, 1장: 개발자가 알아야 할 글쓰기 기본)
 ## 문장을 구조화하는 법
     색상 RGB 값을 각각 사용하기 때문에 입력 데이터는 3차원 벡터다.   
