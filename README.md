@@ -28,11 +28,19 @@
               </a>
           </td>
       </tr>
-      <tr>
-          <td align="center">김태형</td>
-          <td align="center">민경태</td>
-          <td align="center">이진욱</td>
-          <td align="center">이호영</td>
+      <tr> 
+          <td align="center">
+            <a href="https://taetae-dev.tistory.com">김태형</a>
+          </td>
+          <td align="center">
+            <a href="https://0urtrees.tistory.com">민경태</a>
+          </td>
+          <td align="center">
+            <a href="https://jinukeu.hashnode.dev">이진욱</a>
+          </td>
+          <td align="center">
+            <a href="https://medium.com/@llghdud921">이호영</a>
+          </td>
       </tr>
   </table>
 </div>
