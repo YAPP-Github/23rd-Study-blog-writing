@@ -28,11 +28,19 @@
               </a>
           </td>
       </tr>
-      <tr>
-          <td align="center">김태형</td>
-          <td align="center">민경태</td>
-          <td align="center">이진욱</td>
-          <td align="center">이호영</td>
+      <tr> 
+          <td align="center">
+            <a href="https://taetae-dev.tistory.com">김태형</a>
+          </td>
+          <td align="center">
+            <a href="https://0urtrees.tistory.com">민경태</a>
+          </td>
+          <td align="center">
+            <a href="https://jinukeu.hashnode.dev">이진욱</a>
+          </td>
+          <td align="center">
+            <a href="https://medium.com/@llghdud921">이호영</a>
+          </td>
       </tr>
   </table>
 </div>
@@ -60,7 +68,7 @@
 ### 스터디 현황
 | |김태형|민경태|이진욱|이호영|
 |------|---|---|---|---|
-|1주차|[x]|[]|[]|[]|
+|1주차|[o]|[o]|[o]|[▵]|
 |2주차|[]|[]|[]|[]|
 |3주차|[]|[]|[]|[]|
 |4주차|[]|[]|[]|[]|
