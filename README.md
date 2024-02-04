@@ -83,6 +83,7 @@
 | |김태형|민경태|이호영|
 |------|---|---|---|
 |1/28|[.]|[[인증](https://0urtrees.tistory.com/413)]|[.]|
+|2/11|[.]|[[인증](https://0urtrees.tistory.com/414), [인증2](https://0urtrees.tistory.com/415)]|[.]|
 
 
 ### 스터디 일정
